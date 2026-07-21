@@ -1,0 +1,46 @@
+{
+  "YOLOv8-Classification": {
+    "model": "YOLOv8-Classification",
+    "fps": 35.85,
+    "inference_ms": 21.55,
+    "memory_mb": 6.2,
+    "accuracy": 0.0,
+    "detection_conf": 0,
+    "keypoint_quality": 0.0,
+    "false_pos": 0,
+    "false_neg": 100
+  },
+  "MediaPipe-Hands": {
+    "model": "MediaPipe-Hands",
+    "fps": 21.67,
+    "inference_ms": 39.88,
+    "memory_mb": 2.6,
+    "accuracy": 89.0,
+    "detection_conf": 0.95,
+    "keypoint_quality": 100,
+    "false_pos": 0,
+    "false_neg": 11
+  },
+  "MediaPipe-Holistic": {
+    "model": "MediaPipe-Holistic",
+    "fps": 18.94,
+    "inference_ms": 47.63,
+    "memory_mb": 5.8,
+    "accuracy": 0.0,
+    "detection_conf": 0,
+    "keypoint_quality": 0.0,
+    "false_pos": 0,
+    "false_neg": 100
+  },
+  "MoveNet-Lightning": {
+    "model": "MoveNet-Lightning",
+    "fps": 64.17,
+    "inference_ms": 10.61,
+    "memory_mb": 2.8,
+    "accuracy": 71.0,
+    "detection_conf": 0.33,
+    "keypoint_quality": 80.95,
+    "false_pos": 0,
+    "false_neg": 29
+  }
+}
